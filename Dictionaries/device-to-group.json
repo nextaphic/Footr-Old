@@ -1,0 +1,21 @@
+{
+  "iPhone X": "Group X",
+  "iPhone XR": "Group XR",
+  
+  "iPhone XS": "Group X",
+  "iPhone XS Max": "Group XSM",
+  
+  "iPhone 11": "Group XR",
+  "iPhone 11 Pro": "Group X",
+  "iPhone 11 Pro Max": "Group XSM",
+  
+  "iPhone 12": "Group 12",
+  "iPhone 12 Pro": "Group 12",
+  "iPhone 12 Pro Max": "Group 12PM",
+  "iPhone 12 mini": "Group 12m",
+  
+  "iPhone 13": "Group 12",
+  "iPhone 13 Pro": "Group 12",
+  "iPhone 13 Pro Max": "Group 12PM",
+  "iPhone 13 mini": "Group 12m"
+}

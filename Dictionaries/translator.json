@@ -1,0 +1,35 @@
+{
+  "languages": ["english", "dutch"],
+  
+  "Monday": {"english": "Monday", "dutch": "Maandag"},
+  "Tuesday": {"english": "Tuesday", "dutch": "Dinsdag"},
+  "Wednesday": {"english": "Wednesday", "dutch": "Woensdag"},
+  "Thursday": {"english": "Thursday", "dutch": "Donderdag"},
+  "Friday": {"english": "Friday", "dutch": "Vrijdag"},
+  "Saturday": {"english": "Saturday", "dutch": "Zaterdag"},
+  "Sunday": {"english": "Sunday", "dutch": "Zondag"},
+  "Tomorrow": {"english": "Tomorrow", "dutch": "Morgen"},
+  
+  "Group": {"english": "Group", "dutch": "Group"},
+  "No upcoming": {"english": "No upcoming games", "dutch": "Geen volgende wedstrijden"},
+  
+  "8th Finals": {"english": "Round of 16", "dutch": "Achtste finale"},
+  "Quarter-finals": {"english": "Quarter-final", "dutch": "Kwartfinale"},
+  "Semi-finals": {"english": "Semi-final", "dutch": "Halve finale"},
+  "Final": {"english": "Final", "dutch": "Finale"},
+  "3rd Place Final": {"english": "Final (3rd place)", "dutch": "Kleine finale"},
+  
+  "argentina": {"english": "Argentina", "dutch": "Argentinië"},
+  "belgium": {"english": "Belgium", "dutch": "België"},
+  "brazil": {"english": "Brazil", "dutch": "Brazilië"},
+  "croatia": {"english": "Croatia", "dutch": "Kroatië"},
+  "denmark": {"english": "Denmark", "dutch": "Denemarken"},
+  "england": {"english": "England", "dutch": "Engeland"},
+  "france": {"english": "France", "dutch": "Frankrijk"},
+  "germany": {"english": "Germany", "dutch": "Duitsland"},
+  "netherlands": {"english": "Netherlands", "dutch": "Nederland"},
+  "qatar": {"english": "Qatar", "dutch": "Qatar"},
+  "serbia": {"english": "Serbia", "dutch": "Servië"},
+  "spain": {"english": "Spain", "dutch": "Spanje"},
+  "switzerland": {"english": "Switzerland", "dutch": "Zwitserland"}
+}
