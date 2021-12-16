@@ -17,5 +17,5 @@
   "15": {"name": "STVV", "short": "STVV", "fixture-file": "stvv.json"},
   "16": {"name": "Cercle Brugge", "short": "CER", "fixture-file": "cercle-brugge.json"},
   "17": {"name": "Union", "short": "USG", "fixture-file": "union.json"},
-  "18": {"name": "Seraing", "short": "SER", "fixture-file": "seraing.json"},
+  "18": {"name": "Seraing", "short": "SER", "fixture-file": "seraing.json"}
 }
