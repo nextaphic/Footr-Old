@@ -1,5 +1,6 @@
 {
   "languages": ["english", "dutch"],
+  "default": "english",
   
   "Monday": {"english": "Monday", "dutch": "Maandag"},
   "Tuesday": {"english": "Tuesday", "dutch": "Dinsdag"},
