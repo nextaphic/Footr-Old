@@ -9,7 +9,7 @@
   "7": {"name": "KAA Gent", "short": "GENT", "fixture-file": "kaa-gent.json"},
   "8": {"name": "KV Mechelen", "short": "KVM", "fixture-file": "kv-mechelen.json"},
   "9": {"name": "Beerschot", "short": "BEE", "fixture-file": "beerschot.json"},
-  "10": {"name": "Zulte-Waregem", "short": "ZWA", "fixture-file": "zulte-waregem.json"},
+  "10": {"name": "Zulte Waregem", "short": "ZWA", "fixture-file": "zulte-waregem.json"},
   "11": {"name": "OH Leuven", "short": "OHL", "fixture-file": "oh-leuven.json"},
   "12": {"name": "KAS Eupen", "short": "EUP", "fixture-file": "kas-eupen.json"},
   "13": {"name": "Charleroi", "short": "CHA", "fixture-file": "charleroi.json"},
