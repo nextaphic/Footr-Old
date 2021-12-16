@@ -1,6 +1,6 @@
 {
   "BELGIUM": "JUPILER PRO LEAGUE",
-  "1": {"name": "Club Brugge", "short": "CLU", "fixture-file": "club-brugge.json"},
+  "1": {"name": "Club Brugge", "short": "CLUB", "fixture-file": "club-brugge.json"},
   "2": {"name": "Antwerp", "short": "ANT", "fixture-file": "antwerp.json"},
   "3": {"name": "Anderlecht", "short": "RSCA", "fixture-file": "anderlecht.json"},
   "4": {"name": "KRC Genk", "short": "GNK", "fixture-file": "krc-genk.json"},
