@@ -21,7 +21,7 @@
     "(MD) Text Up Y": 1963,
     "(MD) Text Down Y": 2015,
     "(MD) Text Left X": 324,
-    "(MD) Text Right X": 1027,
+    "(MD) Text Right X": 1045,
     "(MD) ColorBox Height": 1905
   },
   
@@ -47,7 +47,7 @@
     "(MD) Text Up Y": 1444,
     "(MD) Text Down Y": 1482,
     "(MD) Text Left X": 239,
-    "(MD) Text Right X": 756,
+    "(MD) Text Right X": 769,
     "(MD) ColorBox Height": 1401
   },
   
@@ -73,7 +73,7 @@
     "(MD) Text Up Y": 2166,
     "(MD) Text Down Y": 2224,
     "(MD) Text Left X": 358,
-    "(MD) Text Right X": 1134,
+    "(MD) Text Right X": 1154,
     "(MD) ColorBox Height": 2102
   },
   
@@ -99,7 +99,7 @@
     "(MD) Text Up Y": 2040,
     "(MD) Text Down Y": 2095,
     "(MD) Text Left X": 337,
-    "(MD) Text Right X": 1069,
+    "(MD) Text Right X": 1087,
     "(MD) ColorBox Height": 1980
   },
   
@@ -125,7 +125,7 @@
     "(MD) Text Up Y": 2239,
     "(MD) Text Down Y": 2298,
     "(MD) Text Left X": 370,
-    "(MD) Text Right X": 1173,
+    "(MD) Text Right X": 1193,
     "(MD) ColorBox Height": 2172
   },
   
@@ -151,7 +151,7 @@
     "(MD) Text Up Y": 1885,
     "(MD) Text Down Y": 1936,
     "(MD) Text Left X": 311,
-    "(MD) Text Right X": 986,
+    "(MD) Text Right X": 1003,
     "(MD) ColorBox Height": 1830
   }
 }
