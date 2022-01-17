@@ -1,7 +1,7 @@
 {
   "update-available": "true",
   "notification": {
-    "title": "Dit is een titel test",
+    "title": "",
     "text": "Dit is een tekst test"
   }
 }
