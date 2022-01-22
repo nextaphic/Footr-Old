@@ -28,8 +28,8 @@
     "CD Container Width": 1027,
     "CD Container Height Up": 145,
     "Container Height Down": 315,
-    "Container Radius Up": 50,
-    "Container Radius Down": 50
+    "Container Radius Up": none,
+    "Container Radius Down": 117
   },
   
   "Group XR": {
