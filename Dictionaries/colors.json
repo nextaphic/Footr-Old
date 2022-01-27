@@ -16,7 +16,7 @@
   "P": "#751a46",
   
   "container": {
-    "DM": {"top": "rgba(15,15,18,0.7)", "bottom": "rgba(11,11,14,0.8)"},
-    "LM": {"top": "", "bottom": ""}
+    "DM": {"top": "rgba(15,15,18,0.7)", "bottom": "rgba(11,11,14,0.8)", "text": "#ffffff"},
+    "LM": {"top": "", "bottom": "", "text": "#000000"}
   }
 }
