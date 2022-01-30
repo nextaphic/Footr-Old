@@ -17,6 +17,6 @@
   
   "container": {
     "DM": {"top": "rgba(15,15,18,0.7)", "bottom": "rgba(11,11,14,0.8)", "text": "#ffffff"},
-    "LM": {"top": "", "bottom": "", "text": "#000000"}
+    "LM": {"top": "rgba(240,240,243,0.7)", "bottom": "rgba(244,244,247,0.8)", "text": "#000000"}
   }
 }
