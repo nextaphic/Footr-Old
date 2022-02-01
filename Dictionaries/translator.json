@@ -1,5 +1,5 @@
 {
-  "languages": ["english", "dutch"],
+  "languages": {"1": "english", "2": "dutch"},
   "default": "english",
   
   "Monday": {"english": "Monday", "dutch": "Maandag"},
