@@ -1,0 +1,35 @@
+{
+  "Group X": {
+    "members": ["iPhone X", "iPhone XS", "iPhone 11 Pro"],
+    "width": 1125,
+    "height": 2436,
+    "fontsize": 43,
+    
+    "CD Logo Width": 85,
+    "CD Logo X-L": 61,
+    "CD Logo X-R": 980,
+    "CD Logo Y": 1975,
+    "CD Text X-L": 168,
+    "CD Text X-C": 563,
+    "CD Text X-R": 959,
+    "CD Text Y": 2016,
+    
+    "MD Logo Width": 106,
+    "MD Logo X-L": 61,
+    "MD Logo X-R": 180,
+    "MD Logo Y": 1954,
+    "MD Text X-L": 307,
+    "MD Text X-R": 1063,
+    "MD Text Y-U": 1982,
+    "MD Text Y-D": 2034,
+
+    "CD Cont Y": 1946,
+    "MD Cont Y": 1498,
+    "CD Cont Height-U": 145,
+    "MD Cont Height-U": 593,
+    "Cont Height-D": 315,
+    "Cont Radius-U": 72,
+    "Cont Radius-D": 121,
+    "Cont Width": 1065
+  }
+}
