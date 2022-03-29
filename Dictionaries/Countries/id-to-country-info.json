@@ -3,13 +3,18 @@
   "2": {"name": "france", "emoji": "🇫🇷", "short": "FRA", "fixture-path": "Countries/france.json"},
   "3": {"name": "croatia", "emoji": "🇭🇷", "short": "CRO", "fixture-path": "Countries/croatia.json"},
   "6": {"name": "brazil", "emoji": "🇧🇷", "short": "BRA", "fixture-path": "Countries/brazil.json"},
+  "7": {"name": "uruguay", "emoji": "🇺🇾", "short": "URU", "fixture-path": "Countries/uruguay.json"},
   "9": {"name": "spain", "emoji": "🇪🇸", "short": "ESP", "fixture-path": "Countries/spain.json"},
   "10": {"name": "england", "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "short": "ENG", "fixture-path": "Countries/england.json"},
+  "12": {"name": "japan", "emoji": "🇯🇵", "short": "JPN", "fixture-path": "Countries/japan.json"},
   "14": {"name": "serbia", "emoji": "🇷🇸", "short": "SRB", "fixture-path": "Countries/serbia.json"},
   "15": {"name": "switzerland", "emoji": "🇨🇭", "short": "SUI", "fixture-path": "Countries/switzerland.json"},
   "21": {"name": "denmark", "emoji": "🇩🇰", "short": "DEN", "fixture-path": "Countries/denmark.json"},
+  "22": {"name": "iran", "emoji": "🇮🇷", "short": "IRN", "fixture-path": "Countries/iran.json"},
   "25": {"name": "germany", "emoji": "🇩🇪", "short": "GER", "fixture-path": "Countries/germany.json"},
   "26": {"name": "argentina", "emoji": "🇦🇷", "short": "ARG", "fixture-path": "Countries/argentina.json"},
   "1118": {"name": "netherlands", "emoji": "🇳🇱", "short": "NED", "fixture-path": "Countries/netherlands.json"},
-  "1569": {"name": "qatar", "emoji": "🇶🇦", "short": "QAT", "fixture-path": "Countries/qatar.json"}
+  "1569": {"name": "qatar", "emoji": "🇶🇦", "short": "QAT", "fixture-path": "Countries/qatar.json"},
+  "2382": {"name": "ecuador", "emoji": "🇪🇨", "short": "ECU", "fixture-path": "Countries/ecuador.json"},
+  "5529": {"name": "canada", "emoji": "🇨🇦", "short": "CAN", "fixture-path": "Countries/canada.json"}
 }
