@@ -1,5 +1,5 @@
 {
-  "TODO": ["South-Korea", "Saudi-Arabia"],
+  "notes": {"emoji": "📝", "TODO": ["South-Korea", "Saudi-Arabia"]},
   "1": {"name": "belgium", "emoji": "🇧🇪", "short": "BEL", "fixture-path": "Countries/belgium.json"},
   "2": {"name": "france", "emoji": "🇫🇷", "short": "FRA", "fixture-path": "Countries/france.json"},
   "3": {"name": "croatia", "emoji": "🇭🇷", "short": "CRO", "fixture-path": "Countries/croatia.json"},
