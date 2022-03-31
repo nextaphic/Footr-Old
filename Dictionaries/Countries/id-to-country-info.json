@@ -10,6 +10,7 @@
   "13": {"name": "senegal", "emoji": "🇸🇳", "short": "SEN", "fixture-path": "Countries/senegal.json"},
   "14": {"name": "serbia", "emoji": "🇷🇸", "short": "SRB", "fixture-path": "Countries/serbia.json"},
   "15": {"name": "switzerland", "emoji": "🇨🇭", "short": "SUI", "fixture-path": "Countries/switzerland.json"},
+  "16": {"name": "mexico", "emoji": "🇲🇽", "short": "MEX", "fixture-path": "Countries/mexico.json"},
   "17": {"name": "southkorea", "emoji": "🇰🇷", "short": "KOR", "fixture-path": "Countries/southkorea.json"},
   "21": {"name": "denmark", "emoji": "🇩🇰", "short": "DEN", "fixture-path": "Countries/denmark.json"},
   "22": {"name": "iran", "emoji": "🇮🇷", "short": "IRN", "fixture-path": "Countries/iran.json"},
@@ -25,5 +26,6 @@
   "1530": {"name": "cameroon", "emoji": "🇨🇲", "short": "CMR", "fixture-path": "Countries/cameroon.json"},
   "1569": {"name": "qatar", "emoji": "🇶🇦", "short": "QAT", "fixture-path": "Countries/qatar.json"},
   "2382": {"name": "ecuador", "emoji": "🇪🇨", "short": "ECU", "fixture-path": "Countries/ecuador.json"},
+  "2384": {"name": "usa", "emoji": "🇺🇸", "short": "USA", "fixture-path": "Countries/usa.json"},
   "5529": {"name": "canada", "emoji": "🇨🇦", "short": "CAN", "fixture-path": "Countries/canada.json"}
 }
