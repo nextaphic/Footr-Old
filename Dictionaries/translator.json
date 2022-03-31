@@ -34,6 +34,7 @@
   "germany": {"english": "Germany", "dutch": "Duitsland"},
   "iran": {"english": "Iran", "dutch": "Iran"},
   "japan": {"english": "Japan", "dutch": "Japan"},
+  "mexico": {"english": "Mexico", "dutch": "Mexico"},
   "morocco": {"english": "Morocco", "dutch": "Marokko"},
   "netherlands": {"english": "Netherlands", "dutch": "Nederland"},
   "poland": {"english": "Poland", "dutch": "Polen"},
@@ -46,5 +47,6 @@
   "spain": {"english": "Spain", "dutch": "Spanje"},
   "switzerland": {"english": "Switzerland", "dutch": "Zwitserland"},
   "tunisia": {"english": "Tunisia", "dutch": "Tunesië"},
-  "uruguay": {"english": "Uruguay", "dutch": "Uruguay"}
+  "uruguay": {"english": "Uruguay", "dutch": "Uruguay"},
+  "usa": {"english": "United States", "dutch": "Verenigde Staten"}
 }
