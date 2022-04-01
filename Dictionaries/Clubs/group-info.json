@@ -4,7 +4,7 @@
     "width": 640,
     "height": 1136,
     "fontsize": 43,
-    "touchid": true,
+    "touchid": "true",
     
     "CD Logo Width": 48,
     "CD Logo X-L": 35,
@@ -39,7 +39,7 @@
     "width": 750,
     "height": 1334,
     "fontsize": 43,
-    "touchid": true,
+    "touchid": "true",
     
     "CD Logo Width": 56,
     "CD Logo X-L": 41,
@@ -74,7 +74,7 @@
     "width": 1242,
     "height": 2208,
     "fontsize": 43,
-    "touchid": true,
+    "touchid": "true",
     
     "CD Logo Width": 93,
     "CD Logo X-L": 67,
@@ -109,7 +109,7 @@
     "width": 1080,
     "height": 1920,
     "fontsize": 43,
-    "touchid": true,
+    "touchid": "true",
     
     "CD Logo Width": 81,
     "CD Logo X-L": 59,
@@ -144,7 +144,7 @@
     "width": 1125,
     "height": 2436,
     "fontsize": 43,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 85,
     "CD Logo X-L": 61,
@@ -179,7 +179,7 @@
     "width": 828,
     "height": 1792,
     "fontsize": 30,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 62,
     "CD Logo X-L": 45,
@@ -214,7 +214,7 @@
     "width": 1242,
     "height": 2688,
     "fontsize": 43,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 93,
     "CD Logo X-L": 67,
@@ -249,7 +249,7 @@
     "width": 1170,
     "height": 2532,
     "fontsize": 43,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 88,
     "CD Logo X-L": 64,
@@ -284,7 +284,7 @@
     "width": 1284,
     "height": 2778,
     "fontsize": 43,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 97,
     "CD Logo X-L": 70,
@@ -319,7 +319,7 @@
     "width": 1080,
     "height": 2340,
     "fontsize": 38,
-    "touchid": false,
+    "touchid": "false",
     
     "CD Logo Width": 81,
     "CD Logo X-L": 59,
