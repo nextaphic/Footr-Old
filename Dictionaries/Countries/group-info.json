@@ -73,7 +73,7 @@
     "members": ["iPhone 6 Plus", "iPhone 6s Plus", "iPhone 7 Plus"],
     "width": 1242,
     "height": 2208,
-    "fontsize": 44,
+    "fontsize": 43,
     "touchid": "true",
     
     "CD Logo Width": 93,
@@ -143,7 +143,7 @@
     "members": ["iPhone X", "iPhone XS", "iPhone 11 Pro"],
     "width": 1125,
     "height": 2436,
-    "fontsize": 44,
+    "fontsize": 43,
     "touchid": "false",
     
     "CD Logo Width": 85,
@@ -213,7 +213,7 @@
     "members": ["iPhone XS Max", "iPhone 11 Pro Max"],
     "width": 1242,
     "height": 2688,
-    "fontsize": 44,
+    "fontsize": 43,
     "touchid": "false",
     
     "CD Logo Width": 93,
@@ -248,7 +248,7 @@
     "members": ["iPhone 12", "iPhone 12 Pro", "iPhone 13", "iPhone 13 Pro"],
     "width": 1170,
     "height": 2532,
-    "fontsize": 44,
+    "fontsize": 43,
     "touchid": "false",
     
     "CD Logo Width": 88,
@@ -283,7 +283,7 @@
     "members": ["iPhone 12 Pro Max", "iPhone 13 Pro Max"],
     "width": 1284,
     "height": 2778,
-    "fontsize": 44,
+    "fontsize": 43,
     "touchid": "false",
     
     "CD Logo Width": 97,
