@@ -1,9 +1,150 @@
 {
-  "Group X": {
+  "640x1136": {
+    "members": ["iPhone 5", "iPhone 5S", "iPhone 5C", "iPhone SE 1"],
+    "width": 640,
+    "height": 1136,
+    "fontsize": 25,
+    "touchid": "true",
+    
+    "CD Logo Width": 48,
+    "CD Logo X-L": 35,
+    "CD Logo X-R": 558,
+    "CD Logo Y": 962,
+    "CD Text X-L": 96,
+    "CD Text X-C": 320,
+    "CD Text X-R": 546,
+    "CD Text Y": 985,
+    
+    "MD Logo Width": 60,
+    "MD Logo X-L": 35,
+    "MD Logo X-R": 109,
+    "MD Logo Y": 949,
+    "MD Text X-L": 175,
+    "MD Text X-R": 605,
+    "MD Text Y-U": 965,
+    "MD Text Y-D": 995,
+
+    "CD Cont Y": 944,
+    "MD Cont Y": 690,
+    "CD Cont Height-U": 82,
+    "MD Cont Height-U": 336,
+    "Cont Height-D": 0,
+    "Cont Radius-U": 41,
+    "Cont Radius-D": 0,
+    "Cont Width": 606
+  },
+
+  "750x1334": {
+    "members": ["iPhone 6", "iPhone 6s", "iPhone 7", "iPhone 8", "iPhone SE 2"],
+    "width": 750,
+    "height": 1334,
+    "fontsize": 29,
+    "touchid": "true",
+    
+    "CD Logo Width": 56,
+    "CD Logo X-L": 41,
+    "CD Logo X-R": 654,
+    "CD Logo Y": 1129,
+    "CD Text X-L": 112,
+    "CD Text X-C": 375,
+    "CD Text X-R": 639,
+    "CD Text Y": 1157,
+    
+    "MD Logo Width": 71,
+    "MD Logo X-L": 41,
+    "MD Logo X-R": 128,
+    "MD Logo Y": 1115,
+    "MD Text X-L": 205,
+    "MD Text X-R": 708,
+    "MD Text Y-U": 1133,
+    "MD Text Y-D": 1168,
+
+    "CD Cont Y": 1109,
+    "MD Cont Y": 810,
+    "CD Cont Height-U": 96,
+    "MD Cont Height-U": 395,
+    "Cont Height-D": 0,
+    "Cont Radius-U": 48,
+    "Cont Radius-D": 0,
+    "Cont Width": 710
+  },
+
+  "1242x2208": {
+    "members": ["iPhone 6 Plus", "iPhone 6s Plus", "iPhone 7 Plus"],
+    "width": 1242,
+    "height": 2208,
+    "fontsize": 44,
+    "touchid": "true",
+    
+    "CD Logo Width": 93,
+    "CD Logo X-L": 67,
+    "CD Logo X-R": 1082,
+    "CD Logo Y": 1869,
+    "CD Text X-L": 186,
+    "CD Text X-C": 621,
+    "CD Text X-R": 1059,
+    "CD Text Y": 1915,
+    
+    "MD Logo Width": 117,
+    "MD Logo X-L": 67,
+    "MD Logo X-R": 212,
+    "MD Logo Y": 1845,
+    "MD Text X-L": 339,
+    "MD Text X-R": 1173,
+    "MD Text Y-U": 1876,
+    "MD Text Y-D": 1933,
+
+    "CD Cont Y": 1836,
+    "MD Cont Y": 1341,
+    "CD Cont Height-U": 160,
+    "MD Cont Height-U": 654,
+    "Cont Height-D": 0,
+    "Cont Radius-U": 80,
+    "Cont Radius-D": 0,
+    "Cont Width": 1176
+  },
+
+  "1080x1920": {
+    "members": ["iPhone 8 Plus"],
+    "width": 1080,
+    "height": 1920,
+    "fontsize": 42,
+    "touchid": "true",
+    
+    "CD Logo Width": 81,
+    "CD Logo X-L": 59,
+    "CD Logo X-R": 941,
+    "CD Logo Y": 1626,
+    "CD Text X-L": 161,
+    "CD Text X-C": 540,
+    "CD Text X-R": 921,
+    "CD Text Y": 1665,
+    
+    "MD Logo Width": 102,
+    "MD Logo X-L": 59,
+    "MD Logo X-R": 185,
+    "MD Logo Y": 1604,
+    "MD Text X-L": 295,
+    "MD Text X-R": 1020,
+    "MD Text Y-U": 1631,
+    "MD Text Y-D": 1681,
+
+    "CD Cont Y": 1596,
+    "MD Cont Y": 1166,
+    "CD Cont Height-U": 139,
+    "MD Cont Height-U": 569,
+    "Cont Height-D": 0,
+    "Cont Radius-U": 69,
+    "Cont Radius-D": 0,
+    "Cont Width": 1022
+  },
+
+  "1125x2436": {
     "members": ["iPhone X", "iPhone XS", "iPhone 11 Pro"],
     "width": 1125,
     "height": 2436,
-    "fontsize": 43,
+    "fontsize": 44,
+    "touchid": "false",
     
     "CD Logo Width": 85,
     "CD Logo X-L": 61,
@@ -18,7 +159,7 @@
     "MD Logo X-L": 61,
     "MD Logo X-R": 192,
     "MD Logo Y": 1935,
-    "MD Text X-L": 331,
+    "MD Text X-L": 307,
     "MD Text X-R": 1063,
     "MD Text Y-U": 1963,
     "MD Text Y-D": 2015,
@@ -33,11 +174,12 @@
     "Cont Width": 1065
   },
   
-  "Group XR": {
+  "828x1792": {
     "members": ["iPhone XR", "iPhone 11"],
     "width": 828,
     "height": 1792,
-    "fontsize": 30,
+    "fontsize": 32,
+    "touchid": "false",
     
     "CD Logo Width": 62,
     "CD Logo X-L": 45,
@@ -52,7 +194,7 @@
     "MD Logo X-L": 45,
     "MD Logo X-R": 142,
     "MD Logo Y": 1424,
-    "MD Text X-L": 244,
+    "MD Text X-L": 226,
     "MD Text X-R": 782,
     "MD Text Y-U": 1444,
     "MD Text Y-D": 1482,
@@ -67,11 +209,12 @@
     "Cont Width": 784
   },
   
-  "Group XSM": {
+  "1242x2688": {
     "members": ["iPhone XS Max", "iPhone 11 Pro Max"],
     "width": 1242,
     "height": 2688,
-    "fontsize": 43,
+    "fontsize": 44,
+    "touchid": "false",
     
     "CD Logo Width": 93,
     "CD Logo X-L": 67,
@@ -86,7 +229,7 @@
     "MD Logo X-L": 67,
     "MD Logo X-R": 212,
     "MD Logo Y": 2135,
-    "MD Text X-L": 365,
+    "MD Text X-L": 339,
     "MD Text X-R": 1173,
     "MD Text Y-U": 2166,
     "MD Text Y-D": 2224,
@@ -101,11 +244,12 @@
     "Cont Width": 1176
   },
   
-  "Group 12": {
+  "1170x2532": {
     "members": ["iPhone 12", "iPhone 12 Pro", "iPhone 13", "iPhone 13 Pro"],
     "width": 1170,
     "height": 2532,
-    "fontsize": 43,
+    "fontsize": 44,
+    "touchid": "false",
     
     "CD Logo Width": 88,
     "CD Logo X-L": 64,
@@ -120,7 +264,7 @@
     "MD Logo X-L": 64,
     "MD Logo X-R": 201,
     "MD Logo Y": 2011,
-    "MD Text X-L": 345,
+    "MD Text X-L": 319,
     "MD Text X-R": 1105,
     "MD Text Y-U": 2041,
     "MD Text Y-D": 2095,
@@ -135,11 +279,12 @@
     "Cont Width": 1108
   },
   
-  "Group 12PM": {
+  "1284x2778": {
     "members": ["iPhone 12 Pro Max", "iPhone 13 Pro Max"],
     "width": 1284,
     "height": 2778,
-    "fontsize": 43,
+    "fontsize": 44,
+    "touchid": "false",
     
     "CD Logo Width": 97,
     "CD Logo X-L": 70,
@@ -154,7 +299,7 @@
     "MD Logo X-L": 70,
     "MD Logo X-R": 220,
     "MD Logo Y": 2207,
-    "MD Text X-L": 378,
+    "MD Text X-L": 350,
     "MD Text X-R": 1213,
     "MD Text Y-U": 2239,
     "MD Text Y-D": 2298,
@@ -169,11 +314,12 @@
     "Cont Width": 1216
   },
   
-  "Group 12m": {
+  "1080x2340": {
     "members": ["iPhone 12 mini", "iPhone 13 mini"],
     "width": 1080,
     "height": 2340,
-    "fontsize": 38,
+    "fontsize": 42,
+    "touchid": "false",
     
     "CD Logo Width": 81,
     "CD Logo X-L": 59,
@@ -188,7 +334,7 @@
     "MD Logo X-L": 59,
     "MD Logo X-R": 185,
     "MD Logo Y": 1859,
-    "MD Text X-L": 318,
+    "MD Text X-L": 295,
     "MD Text X-R": 1020,
     "MD Text Y-U": 1886,
     "MD Text Y-D": 1936,
