@@ -14,7 +14,7 @@
   "DB": "#002266",
   "P": "#751a46",
   
-  "filters": "blur(30px) saturate(150%) brightness(100%)";
+  "filters": "blur(30px) saturate(150%) brightness(100%)",
   
   "default": {
     "DM": {"matchday": "#333333", "top": "rgba(15,15,18,0.7)", "bottom": "rgba(11,11,14,0.8)", "text": "#ffffff"},
