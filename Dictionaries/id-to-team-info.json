@@ -70,5 +70,5 @@
   "55": {"name": "Brentford", "short": "BRE", "fixture-path": "England/brentford.json", "local-db": "0"},
   "63": {"name": "Leeds United", "short": "LEE", "fixture-path": "England/leeds-united.json", "local-db": "0"},
   "66": {"name": "Aston Villa", "short": "AVL", "fixture-path": "England/aston-villa.json", "local-db": "0"},
-  "71": {"name": "Norwich City", "short": "NOR", "fixture-path": "England/norwich-city.json", "local-db": "0"},
+  "71": {"name": "Norwich City", "short": "NOR", "fixture-path": "England/norwich-city.json", "local-db": "0"}
 }
